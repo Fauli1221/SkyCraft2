@@ -1,0 +1,13 @@
+name = "Railroad Blocks"
+filename = "railroadblocksaddon-fabric-0.5.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sTmgisaB/versions/ly2CSL1k/railroadblocksaddon-fabric-0.5.0-beta.jar"
+hash-format = "sha1"
+hash = "c02d37a4442e42bb9fcae70733afa0273979ab91"
+
+[update]
+[update.modrinth]
+mod-id = "sTmgisaB"
+version = "ly2CSL1k"

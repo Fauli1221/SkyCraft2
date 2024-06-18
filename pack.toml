@@ -1,0 +1,13 @@
+name = "Sky Craft 2"
+author = "Sky Splash"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f665f50ad36b06cf8d41e50c718fd5d0fb5c6c7d8c95d1c90c1c1a15b409da8b"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.21"

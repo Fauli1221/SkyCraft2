@@ -1,0 +1,13 @@
+name = "Diversity"
+filename = "diversity-1.0.0-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/31qnTHav/versions/RLVUIiig/diversity-1.0.0-fabric.jar"
+hash-format = "sha1"
+hash = "6ce7e56f81a4c715fe7db075ba885fc477d14c51"
+
+[update]
+[update.modrinth]
+mod-id = "31qnTHav"
+version = "RLVUIiig"
