@@ -1,13 +1,13 @@
 name = "Tom's Simple Storage Mod"
-filename = "toms_storage_fabric-1.21-2.0.0.jar"
+filename = "toms_storage_fabric-1.21-2.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XZNI4Cpy/versions/fbgYsydq/toms_storage_fabric-1.21-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/XZNI4Cpy/versions/P13hVADH/toms_storage_fabric-1.21-2.0.2.jar"
 hash-format = "sha1"
-hash = "c10a34ae928db3f145d0551abef2c253887aa946"
+hash = "69456270fd7473216f6e03c87a0461c466cdeee1"
 
 [update]
 [update.modrinth]
 mod-id = "XZNI4Cpy"
-version = "fbgYsydq"
+version = "P13hVADH"
