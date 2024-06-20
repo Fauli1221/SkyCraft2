@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "f082b63ba707c53953a7f7cac127cccf3d25028e5f2bc14594fd7d9254b4e014"
+hash = "94c2956d8b3a06089b9f2bbc297d02574e84224159f80e80bbc2aa56341f102c"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/roguelikedungeons.pw.toml"
-hash = "c88cc2fdfaa76eab26d200ed549ba9dbfd3daa297f03635e5a35b8685681fcc7"
+hash = "8ef4bdcf80d05488e9441a2fcd66f29b97b930aee92e7f44f16f3370c37d3361"
 metafile = true
 
 [[files]]
