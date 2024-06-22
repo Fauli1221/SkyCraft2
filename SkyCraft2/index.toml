@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "47d27deb5420e0eb3ffc69434307117000e87029d788c55045359941b0afd11f"
+hash = "abb5e9b7b3f71c3994d68691371050285cc3e81e7ddf72cc49ec0ad4ca408f5c"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ce13881a84adda0cc7bae3c83641e1a4acf41a9a82ebb82e5224d40733cacb58"
+hash = "93d29c2876e202584a08a4754b51850730d2dbc85ae350f4fa140a854768a3bb"
 metafile = true
 
 [[files]]
@@ -107,17 +107,17 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "94c2956d8b3a06089b9f2bbc297d02574e84224159f80e80bbc2aa56341f102c"
+hash = "5b48a45924e9d507dccb1e12e780a9a276756f670dc8ce757b9014b9fcd65d28"
 metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "e384347ac3185be858d6a590cce247933aa9e2571425cd08e227e3840ec24d1b"
+hash = "a8affe8be1a46dab4957200a07a67ae47035644ce480c3c67265e48fdff8af01"
 metafile = true
 
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
-hash = "3f1595e8a615c8a4dca66daacb2a885a7b6429010f984581dd914f6e0b8af7f5"
+hash = "1f8bfcd516fe6cb393848d5b40f5c7523866f6b8526a23b8e52090866ce3ccb9"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "f136bce6bee463cd87650b95db34ebf07d258983bccd4164597cd5cf41d21c9b"
+hash = "2bbb707f231c2225374e1c93d0d07e6cd1621e76ded5ad030af5916f4d2b5b0e"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "595b600a214307e20ff450c33f612e3568a018da8e6c647b82f559bd9edcd920"
+hash = "69210f19e856569a5e8eed98a7112111c14166710ff6a2b0238c2d62fcb574e9"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/mo-structures.pw.toml"
-hash = "2364fefae4e32958188fb40cf79cbd19e2e9217be48194bf0fa7c2313a03e706"
+hash = "2347c96c45596402c9ce8795ab2f3fd4f1624e6355a178d81ee6438bc147649c"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9c603d7cea1e1b60317400b25490a93051f7e73204c337d815ac1dc53132a421"
+hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/qraftyfied.pw.toml"
-hash = "6d5372078cadc710087f997fa2c7c1580ec44593dcef29fcd1b77e705cfaccea"
+hash = "168fc7908773f71371cff0f9c3ad014f10a110e5723cef79284f52bc47c9ac4a"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "92c18d70fd72ca917e423757216d3f3c51d6c6d11395d7fdaae8b2cc4c087969"
+hash = "e3e9de8e821abb937d70b1d46a1ff70f5e332ff5b12a65f3f67dfb316d6f5900"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud-fabric.pw.toml"
-hash = "40d76532eacf758c58a91cefb3bd8179e030c7eb1703e638fe486024bd019431"
+hash = "d4a479ea9d537b2ee3d2afce50e2be5795583ad5a07e8d2209f3fc4d22f7959c"
 metafile = true
 
 [[files]]

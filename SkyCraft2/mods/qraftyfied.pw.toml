@@ -1,13 +1,13 @@
 name = "qraftyfied"
-filename = "qraftyfied-8.0.1.jar"
+filename = "qraftyfied-8.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ibnDR6oc/versions/R8ramvRD/qraftyfied-8.0.1.jar"
+url = "https://cdn.modrinth.com/data/ibnDR6oc/versions/GJTB35GT/qraftyfied-8.1.1.jar"
 hash-format = "sha1"
-hash = "c5d81fbc2007e6eda1e941618b4ecc1d040e22fe"
+hash = "bfbe1a682d95c7e1f8dbede15fa391960dd0f229"
 
 [update]
 [update.modrinth]
 mod-id = "ibnDR6oc"
-version = "R8ramvRD"
+version = "GJTB35GT"
