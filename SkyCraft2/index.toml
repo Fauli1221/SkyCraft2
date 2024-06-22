@@ -66,6 +66,11 @@ hash = "b488580fb9fc59ad54b8ebd7b742aa98d2063ed12b75b624a6b6f36b40b02005"
 metafile = true
 
 [[files]]
+file = "mods/charm.pw.toml"
+hash = "e5a9f96b94726f4585cf91fa0ddbd81e353f85f6f6723a2b4f01bf05c8dfd4a8"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "0355b81b049cfd99a5329a9c8a9fad50d2a3e2069276c1cfcc3a07eb95cf3b31"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "e384347ac3185be858d6a590cce247933aa9e2571425cd08e227e3840ec24d1b"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "3f1595e8a615c8a4dca66daacb2a885a7b6429010f984581dd914f6e0b8af7f5"
 metafile = true
 
 [[files]]
@@ -226,6 +236,11 @@ hash = "e50356ad64c98c60fefee435fedb4fa306c3295f78047c9da1e16eac227964b1"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "8085864479d4082448bd5dfc46ada5843558ea4e8feaf142f979be6921e59972"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "5ee4dd82e956e1d7dcfcfcbc067ff313eceedcb4f3d230e7156ec517956e643d"
 metafile = true
@@ -268,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "2eb91ecfdf85409ba08ea1bf1cf0a6f692e30bb94a90c75303c13da97aab504e"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fbf317a4e2f0ff099fce511228eb150e0fc73f000eedc8ab7d5eaa1d7fb4b328"
 metafile = true
 
 [[files]]
@@ -366,6 +386,11 @@ hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "dff9ac35963eb4ae25aab0d29898c4b8c689547124a065a719a8bb8f86ced9d4"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "d8d16415897778ba9e6bf5cd74920edce456787f48c4e8fc6e2aa1d17fdffdc7"
 metafile = true
@@ -418,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "00671077b7da29aa3c79cea281bec0cb19eba9bd9a95a1e096afac045eaf3735"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "92c18d70fd72ca917e423757216d3f3c51d6c6d11395d7fdaae8b2cc4c087969"
 metafile = true
 
 [[files]]
@@ -483,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "563199dd7474844a71797be5114c798df3ded2d7bc0c9d384d9fd4aaa1b831b9"
+metafile = true
+
+[[files]]
+file = "mods/strange.pw.toml"
+hash = "256afb56b2e300ab420f66f46d7bf45dccef33bd0318eb4f09c40f6afe7c0715"
 metafile = true
 
 [[files]]
