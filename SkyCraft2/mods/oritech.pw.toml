@@ -1,0 +1,13 @@
+name = "Oritech"
+filename = "oritech-0.6.1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4sYI62kA/versions/uJzZwB5L/oritech-0.6.1%2B1.21.jar"
+hash-format = "sha1"
+hash = "d50bd3db0477a245f52a8b50744c56b7c9581509"
+
+[update]
+[update.modrinth]
+mod-id = "4sYI62kA"
+version = "uJzZwB5L"

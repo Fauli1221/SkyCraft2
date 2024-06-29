@@ -1,13 +1,13 @@
 name = "SeasonHUD-Fabric"
-filename = "seasonhud-fabric-1.21-1.8.7.jar"
+filename = "seasonhud-fabric-1.21-1.8.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/iDiIfZLX/versions/o5oHwU2J/seasonhud-fabric-1.21-1.8.7.jar"
+url = "https://cdn.modrinth.com/data/iDiIfZLX/versions/nXn8vSWh/seasonhud-fabric-1.21-1.8.9.jar"
 hash-format = "sha1"
-hash = "79a181aa86ae842bffdab3145ae61731bb87b36b"
+hash = "4c5be62e0f5f8c62db9bee02255b268c8d4d20a0"
 
 [update]
 [update.modrinth]
 mod-id = "iDiIfZLX"
-version = "o5oHwU2J"
+version = "nXn8vSWh"
