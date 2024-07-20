@@ -1,13 +1,13 @@
 name = "Roguelike Dungeons"
-filename = "RoguelikeDungeons-2.0.7-1.21-fabric.jar"
+filename = "RoguelikeDungeons-2.0.8-1.21-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MFpvbNGE/versions/dZESeTGM/RoguelikeDungeons-2.0.7-1.21-fabric.jar"
+url = "https://cdn.modrinth.com/data/MFpvbNGE/versions/v0qI49QE/RoguelikeDungeons-2.0.8-1.21-fabric.jar"
 hash-format = "sha1"
-hash = "b191ecad051b8036bc24bc47a12b089c0626bb0b"
+hash = "4fce5177db333b4ae7bb72967af263c89fa56cb5"
 
 [update]
 [update.modrinth]
 mod-id = "MFpvbNGE"
-version = "dZESeTGM"
+version = "v0qI49QE"

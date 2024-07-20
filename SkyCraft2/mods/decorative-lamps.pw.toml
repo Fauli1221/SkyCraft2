@@ -1,13 +1,13 @@
 name = "Decorative Lamps"
-filename = "Decorative Lamps-1.21-1.7.1.jar"
+filename = "Decorative Lamps-1.21-1.7.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/B4n7BWWA/versions/FjRjC5lJ/Decorative%20Lamps-1.21-1.7.1.jar"
+url = "https://cdn.modrinth.com/data/B4n7BWWA/versions/kp09TxFP/Decorative%20Lamps-1.21-1.7.3.jar"
 hash-format = "sha1"
-hash = "026297265544039cb872e4fe210beb104429bc3d"
+hash = "a1f42bbfa67799c61011bf08405f754602c79409"
 
 [update]
 [update.modrinth]
 mod-id = "B4n7BWWA"
-version = "FjRjC5lJ"
+version = "kp09TxFP"
