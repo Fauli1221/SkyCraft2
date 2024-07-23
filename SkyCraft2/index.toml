@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "8dff71c2fa97a7846c565c934ff5034655343dde1032d1aa379dcfce6df27915"
+hash = "4043d6f86e6257340beb804f8b6c2cd6e54a6b2fe6fc0ee3d43cdcbeeba64754"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/kirin.pw.toml"
-hash = "8c04e145c897ff45659e252b978fb20383b9c6d8da50b6dd4252759204bd4319"
+hash = "f9cb5a28826195618f1204410d2d55c95db641339340f243b3031c0ab3129d02"
 metafile = true
 
 [[files]]
@@ -583,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "79ec58c99084d5b02044e04b6860bc6339868e95e1a8c7a982f5400ee777b178"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "0c361f43537d445ba78c4569f214b35490bb315ba928be861f84805a3bc44a60"
 metafile = true
 
 [[files]]
