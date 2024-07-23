@@ -51,6 +51,11 @@ hash = "cb177f0ebdb9eca2126fea8e837a0cdc5f3c3f3ad28381871748c55d84c29206"
 metafile = true
 
 [[files]]
+file = "mods/big-pony.pw.toml"
+hash = "b0d054610abd8f2f1485511b244e36080be3645caa44666d1eb384da59653c30"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "30740d9f966a92afe1c0238d3f7d9a2a790079451a0b88463528403f03b63eb7"
 metafile = true
