@@ -396,6 +396,11 @@ hash = "5beed8b037d1f8a2a5b3cf37b04f369026f88f97765ba7e3b343095c77491e1f"
 metafile = true
 
 [[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "99c127a28408b6b9a3a41e011d760158020136c3276055d883bd739749209558"
+metafile = true
+
+[[files]]
 file = "mods/macaws-trapdoors.pw.toml"
 hash = "0e8d361a54ef44b453cde36d63c32adb7669bdd6b1221e7a8005b1d2ce43b81b"
 metafile = true
