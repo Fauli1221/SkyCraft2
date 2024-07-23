@@ -1,13 +1,13 @@
 name = "Aerolith"
-filename = "aerolith-1.3.1.jar"
+filename = "aerolith-1.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bjbefi82/versions/apL1zHdn/aerolith-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/bjbefi82/versions/6bEb99or/aerolith-1.3.2.jar"
 hash-format = "sha1"
-hash = "404a5c544952ab9dcd3f232677401ed82fd6a66d"
+hash = "81dccfce50989996390ae40743c143f1fa04af8c"
 
 [update]
 [update.modrinth]
 mod-id = "bjbefi82"
-version = "apL1zHdn"
+version = "6bEb99or"
