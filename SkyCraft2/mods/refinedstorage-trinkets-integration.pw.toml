@@ -1,0 +1,7 @@
+name = "refinedstorage-trinkets-integration"
+filename = "refinedstorage-trinkets-integration-0.2.0.jar"
+
+[download]
+url = "https://github.com/refinedmods/refinedstorage-trinkets-integration/releases/download/v0.2.0/refinedstorage-trinkets-integration-0.2.0.jar"
+hash-format = "sha256"
+hash = "c7dd77dbd9a36ef4c7be18310067e0ac71389664fa6115b0ad6d4f5aa6dcfbcd"

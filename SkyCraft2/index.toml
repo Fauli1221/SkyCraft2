@@ -51,6 +51,11 @@ hash = "cb177f0ebdb9eca2126fea8e837a0cdc5f3c3f3ad28381871748c55d84c29206"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "30740d9f966a92afe1c0238d3f7d9a2a790079451a0b88463528403f03b63eb7"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "fa6e9e9fdae2076a024ad68f147b535e3d8acbedb8a4bf9a7f8dc0e0813cc5bd"
 metafile = true
@@ -116,6 +121,11 @@ hash = "8c3342aeba36b5ff34c10f0ad6c13bbeb7ea4f040683aba80e83776697ceda0d"
 metafile = true
 
 [[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "2fc18e78d75f1f706e777032f850207cc72dfdc0ed974918691ed7bf184bf67c"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
 metafile = true
@@ -176,8 +186,18 @@ hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "6caaedd656c7588eecb3aab2c3fe9e22fdf2d442fb469a9c75518f381f3c5524"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "f0ab69070fefbc85039133adf4015dc0a403a45d5c00713d6200b0943a310398"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+hash = "b3b3389418df22d55855c3b0e8ae505bd392384529150692cb24dba28f699e79"
 metafile = true
 
 [[files]]
@@ -268,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "10abfd16e1d823f58348dbc02a3ac241b5dbf0abeecf9002bf9e73bb1a8d36f0"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "d3ca52f88029ea7457b7bf4e2567ef0d4351585225787b2d6493d5f92f952bc3"
 metafile = true
 
 [[files]]
@@ -501,6 +526,21 @@ hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
 metafile = true
 
 [[files]]
+file = "mods/refinedstorage-emi-integration.pw.toml"
+hash = "34795ee4666bea621cc304830b6703d78f68ad59a415925977b6bbe87b63fea8"
+metafile = true
+
+[[files]]
+file = "mods/refinedstorage-trinkets-integration.pw.toml"
+hash = "15f58cd52583a76377cc1d29577348cf1f9ddadf82d0c5199ebb0aa1b772707a"
+metafile = true
+
+[[files]]
+file = "mods/refinedstorage.pw.toml"
+hash = "2a0161ff29314227c206ec9cfc4ab8236ec04d59418a48c6e9daddee68d3c196"
+metafile = true
+
+[[files]]
 file = "mods/replanting-crops.pw.toml"
 hash = "2f80f23d00c3ff9e0fbeafaa802a6a169e060511182b1e2a018e7d4ca005839d"
 metafile = true
@@ -596,6 +636,11 @@ hash = "11d45d83c817b2fa8572d7668d294763449b0fa62bde431665dcb833a9e581d3"
 metafile = true
 
 [[files]]
+file = "mods/terrestria.pw.toml"
+hash = "f6fbfaed5933e2d9ee153f2484e7f4e7291518c275b6c4a3c269a5caa2aa51c5"
+metafile = true
+
+[[files]]
 file = "mods/tla-api.pw.toml"
 hash = "850b978da485f5d725fc78c6b3e70359c72811e50047d89802aeeb8ace9282b1"
 metafile = true
@@ -616,8 +661,23 @@ hash = "fb1c5352df2145a38c0bbf9bd77d0c94a3a0fc34ed9f4ef9fe6728e5c4cdba59"
 metafile = true
 
 [[files]]
+file = "mods/traverse.pw.toml"
+hash = "c83d5385039d41b0ac04ec837e4e60e217bd6be2366fe2ce9b7ad1871ef2e64a"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "71cf6afe41f483f58245070a5cd23a9f75157027e0fce3af1413816d0268ef4a"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-fireflies.pw.toml"
 hash = "ed92947da72db63e37d6b2bd7959ae8ed1a97e67ec3c01687a192288c14e423e"
+metafile = true
+
+[[files]]
+file = "mods/vistas.pw.toml"
+hash = "d0c889001ad33cb1ee53df2a6d0318568866ba12f3c0d730e5448760191c8778"
 metafile = true
 
 [[files]]
