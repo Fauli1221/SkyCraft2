@@ -1,0 +1,13 @@
+name = "Chococraft"
+filename = "chococraft-1.21-fabric-0.11.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bPTEaC7v/versions/gprLlrXl/chococraft-1.21-fabric-0.11.5.jar"
+hash-format = "sha1"
+hash = "733dde2d3ef977dfa4cd9e0318b121b483bd18c9"
+
+[update]
+[update.modrinth]
+mod-id = "bPTEaC7v"
+version = "gprLlrXl"
