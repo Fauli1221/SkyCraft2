@@ -1,7 +1,7 @@
 name = "refinedstorage"
-filename = "refinedstorage-platform-fabric-2.0.0-milestone.4.4.jar"
+filename = "refinedstorage-fabric-2.0.0-milestone.4.5.jar"
 
 [download]
-url = "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.4/refinedstorage-platform-fabric-2.0.0-milestone.4.4.jar"
+url = "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.4.5/refinedstorage-fabric-2.0.0-milestone.4.5.jar"
 hash-format = "sha256"
-hash = "d25f2eb049dd305ffa2907da5ec66c3c8f4ce7026750a01704cc22cc65341a50"
+hash = "7e21d9192d437b0589ec5ddb0b22234140418ad78087732074fa49b2e14c9a0c"

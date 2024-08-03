@@ -1,0 +1,13 @@
+name = "Macaw's Windows"
+filename = "mcw-windows-2.3.2-mc1.21fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7I0BCni/versions/wZUnPxRg/mcw-windows-2.3.2-mc1.21fabric.jar"
+hash-format = "sha1"
+hash = "ca60be94b7ccfc88d3b82bbfdafa06e3dc6d2ef7"
+
+[update]
+[update.modrinth]
+mod-id = "C7I0BCni"
+version = "wZUnPxRg"
