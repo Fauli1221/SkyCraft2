@@ -116,6 +116,11 @@ hash = "7ed2158d2715c74dc93716079c029524ffc36680358d0a79757ab1052a04af6c"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "75af8b7e37f8776a983b9bbbeb49a0183e37911a0aa01a8ee0825bdbe1b9ec6c"
+metafile = true
+
+[[files]]
 file = "mods/chisel-reborn.pw.toml"
 hash = "1b83ad1be94c60a8dcd3679c8cd9a4df09746f3f5107b0465bfe37f69991de88"
 metafile = true
@@ -137,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "4043d6f86e6257340beb804f8b6c2cd6e54a6b2fe6fc0ee3d43cdcbeeba64754"
+hash = "0700481bd6ee67673bcf43ba246f3d57770f413de567a4bc4515f6be7ba63555"
 metafile = true
 
 [[files]]
@@ -682,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-fireflies.pw.toml"
-hash = "ed92947da72db63e37d6b2bd7959ae8ed1a97e67ec3c01687a192288c14e423e"
+hash = "bdbfd6482c443f461cc2840f5becc6b491dd5e8ea233c38a43f1cd9ba54299e8"
 metafile = true
 
 [[files]]
@@ -728,4 +733,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "f46ac3c4cc5da490427ecc666bd30146bc175903867f10a01d270d97d39cc289"
 metafile = true
