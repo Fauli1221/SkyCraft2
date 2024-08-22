@@ -1,0 +1,13 @@
+name = "Anyscale"
+filename = "anyscale-1.0-1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DYQAQcpF/versions/Fqt7tZhw/anyscale-1.0-1.21.jar"
+hash-format = "sha1"
+hash = "e711481816137cd47798ce907220f04723ec2eee"
+
+[update]
+[update.modrinth]
+mod-id = "DYQAQcpF"
+version = "Fqt7tZhw"

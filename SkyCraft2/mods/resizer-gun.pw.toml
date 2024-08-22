@@ -1,0 +1,13 @@
+name = "Resizer Gun"
+filename = "resizer_gun-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "efd35b7e347599106af98d56aab0a25665524090"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5509772
+project-id = 1058947

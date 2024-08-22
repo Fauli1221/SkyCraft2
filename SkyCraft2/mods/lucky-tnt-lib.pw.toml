@@ -1,6 +1,6 @@
 name = "Lucky TNT Lib"
 filename = "fabric-luckytntlib-1.21-0.100.6.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rpuC10sK/versions/wqxlksst/fabric-luckytntlib-1.21-0.100.6.1.jar"
