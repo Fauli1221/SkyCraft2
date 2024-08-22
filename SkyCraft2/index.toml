@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/refinedstorage-emi-integration.pw.toml"
-hash = "06a6ffda45efbbb0a4993d252669140dd2cafd291092cd37cf1fef5d64041ddd"
+hash = "660a2ea1b33f47aec81c5b2a497cff7679c6bed47f84870427c1153fd17c81ea"
 metafile = true
 
 [[files]]
@@ -782,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/refinedstorage.pw.toml"
-hash = "2b9e4116e502efee26204e3d5a2ea1e8c60ba2455610aa8115dbdc373801f2ed"
+hash = "42c447693eeb890b892b3868dec5f910fe32a7bafaa007d331dba9fad87d89d2"
 metafile = true
 
 [[files]]
