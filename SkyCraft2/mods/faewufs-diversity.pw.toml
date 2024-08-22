@@ -1,13 +1,13 @@
 name = "Diversity"
-filename = "diversity-1.3.3+1.21_fabric.jar"
+filename = "diversity-1.3.4+1.21_fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/31qnTHav/versions/CaNLusxN/diversity-1.3.3%2B1.21_fabric.jar"
+url = "https://cdn.modrinth.com/data/31qnTHav/versions/SafjyA50/diversity-1.3.4%2B1.21_fabric.jar"
 hash-format = "sha1"
-hash = "099c81730b4990da950c4bb0abc25c970c76fe0c"
+hash = "7719655d20c15e8ceec90a455c72212f67d55d57"
 
 [update]
 [update.modrinth]
 mod-id = "31qnTHav"
-version = "CaNLusxN"
+version = "SafjyA50"
