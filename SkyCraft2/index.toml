@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/additional-lanterns.pw.toml"
+hash = "a832b77be72bb53eadcc511f0aa7f24b5e3944155c3e96e689905aae19994bf0"
+metafile = true
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "34e93905e41d6eac81479366086ed0d72964fb7ea693fc2bb9d75f47ec022cf6"
 metafile = true
@@ -31,6 +36,11 @@ hash = "c80f37b53efa706687554aef9ca145827616068483b2f361bfd1d03c4bbfc784"
 metafile = true
 
 [[files]]
+file = "mods/analog.pw.toml"
+hash = "6ee65ffa6e9c4608b4bc074b1066859db8f384fbb0b89cb2fc5067376408f4eb"
+metafile = true
+
+[[files]]
 file = "mods/anyscale.pw.toml"
 hash = "07f2d07653765971a421d6b3f50f0df80b4e76eea25eeb5333f835efcc9259c1"
 metafile = true
@@ -43,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "bef7c6ec8a1ea457424579d977a3aff17a8bd99dcaaf8cfac63f4902e19df9ba"
 metafile = true
 
 [[files]]
@@ -83,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/betternether.pw.toml"
 hash = "c0a884ef09f92652009524ea530eb8583cb02f3ce2eeaa3dcafee04bffdcdf58"
+metafile = true
+
+[[files]]
+file = "mods/beyondenchant.pw.toml"
+hash = "6278a2e015867808a97c504f5a2f97786baf5b16e777156c92896c975a98f9fb"
 metafile = true
 
 [[files]]
@@ -128,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7df3b65f1baa251d8fd0f5025a60170da09827989d716bf61d788efca32bc0b2"
+metafile = true
+
+[[files]]
+file = "mods/camerapture.pw.toml"
+hash = "d3fbfdf279d1bed3a1ead4194d2d370c107e16ccee76c87f88bccb382a894605"
 metafile = true
 
 [[files]]
@@ -283,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/esf.pw.toml"
 hash = "226fb78f5592f34aab107001cb934f159090a4fbeaad2a15c1dc2af40c6ca0f3"
+metafile = true
+
+[[files]]
+file = "mods/excessive-building.pw.toml"
+hash = "dff5870679274edb1366e2bd725b41936550f371d9ed8e8be66a74a9dea275e7"
 metafile = true
 
 [[files]]
@@ -481,6 +511,11 @@ hash = "87d16fb355306f86a437eaeb3b3674ec7b56f72ac90ee71300772f4920fe1b10"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+hash = "80ec786a43f9a126979ef102ebf1ea3e92d86ec8d3226d35659b7abab525c017"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b3b33c53f8356928f86223f26eaebd7a266d610f8628e5077cda196192b0b7e4"
 metafile = true
@@ -561,6 +596,11 @@ hash = "09d45a3c0d8b197d202f8e16580d9722d9321e06f8373c89550cec74cd172806"
 metafile = true
 
 [[files]]
+file = "mods/mambience.pw.toml"
+hash = "6fde6be4c631a833cea50d8574302d874c1276f19676b9a354ec266038969786"
+metafile = true
+
+[[files]]
 file = "mods/mavapi.pw.toml"
 hash = "a8a85502fa1fce4c0473276479fe1a3598114f7cd7516e60931920177248082a"
 metafile = true
@@ -596,8 +636,43 @@ hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
+file = "mods/monolib.pw.toml"
+hash = "d9b1a3ee46bf79e2bf0a2107e2f3246c9d265642ca5ff9f2a8b0d762c5244d14"
+metafile = true
+
+[[files]]
+file = "mods/more-barrel-variants.pw.toml"
+hash = "1824d0793f9aadc835926803d10bd94d73b2619e8b6a2781539afa4e4aed9a16"
+metafile = true
+
+[[files]]
+file = "mods/more-bookshelf-variants-lieonlion.pw.toml"
+hash = "13896a020af91359f2dfc9571ebbf7238e01525d0b864ba5b0d2ae0d02ed2a59"
+metafile = true
+
+[[files]]
+file = "mods/more-chest-variants-lieonlion.pw.toml"
+hash = "3d2d8e1e094cc092fc6fd9784846bcd26f3e3236027eccc8a10314d1145c0622"
+metafile = true
+
+[[files]]
+file = "mods/more-crafting-tables-lieonlion.pw.toml"
+hash = "23e033a0d3ff8a30dc950d299a992be8f477d7d8cded01d808d1bb0a839c9999"
+metafile = true
+
+[[files]]
+file = "mods/more-furnace-variants-lieonlion.pw.toml"
+hash = "3e79610175cc8e9a6bcc180ec50ba284f1f081730f85b76da4f895400804a1fe"
+metafile = true
+
+[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "4aabdd45450a1475873d38bb8de88bf4e6fc7467a9a1b10fdd1bb80f0842ce17"
+metafile = true
+
+[[files]]
+file = "mods/mythic-upgrades.pw.toml"
+hash = "ddc3037df9756f000d7dda65329e146905bd9fd8c7b6717ce3e0a3f39cebb501"
 metafile = true
 
 [[files]]
@@ -613,6 +688,16 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "2499d1bf2cae50124a6d4a696df05de0a73d5af04e7234d55803c9069d929d59"
+metafile = true
+
+[[files]]
+file = "mods/neoenchant.pw.toml"
+hash = "d31545e237d667835189bd5f8ed67393124df308c0592c1f2de15e2883a2e90b"
+metafile = true
+
+[[files]]
+file = "mods/new-slab-variants.pw.toml"
+hash = "98c97b9b6bc5208cfe6f3bf8db9a6df113b8229b4ade76aef1aec4ad597d2be1"
 metafile = true
 
 [[files]]
@@ -658,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/qraftyfied.pw.toml"
 hash = "168fc7908773f71371cff0f9c3ad014f10a110e5723cef79284f52bc47c9ac4a"
+metafile = true
+
+[[files]]
+file = "mods/quad.pw.toml"
+hash = "c8d7cae2d86f1f04696e0a228c988492039969483acfbe9465484a6216154e54"
 metafile = true
 
 [[files]]
@@ -766,6 +856,11 @@ hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
 metafile = true
 
 [[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "a7bc9adc515a0ce815628ca268dc0ffa98a90a589ac6c81344130b1ee534104b"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "47870c885ade491cf58a094e23b9e1d53f12e7ae738d933c26f60290c6259edd"
 metafile = true
@@ -793,6 +888,11 @@ metafile = true
 [[files]]
 file = "mods/stringer-things.pw.toml"
 hash = "8475aadca938ae607207a86f9cc5eecb7d17ab43d1c5b3bc303d42bad34ae75d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "1a4a50480745c308e0cb26a7652ef356bd768ddd43560d7142f4a322743a6fec"
 metafile = true
 
 [[files]]
@@ -883,6 +983,11 @@ metafile = true
 [[files]]
 file = "mods/weeping-angels.pw.toml"
 hash = "f57c40b6588d6197ef9f19a10d47fb77d316b39bb93a071957709a4054d096c1"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "29a5b8f25ad1a97ae38eae367933b03c85642327a4227ae24b36e830a8babcbd"
 metafile = true
 
 [[files]]

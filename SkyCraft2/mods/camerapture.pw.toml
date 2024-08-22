@@ -1,0 +1,13 @@
+name = "Camerapture"
+filename = "Camerapture-1.6.2+mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9dzLWnmZ/versions/ZbZelrDh/Camerapture-1.6.2%2Bmc1.21.jar"
+hash-format = "sha1"
+hash = "3bb69764975ce8d8b0cf0b34695ca0f454012a73"
+
+[update]
+[update.modrinth]
+mod-id = "9dzLWnmZ"
+version = "ZbZelrDh"
