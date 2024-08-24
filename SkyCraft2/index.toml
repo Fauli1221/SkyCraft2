@@ -405,14 +405,6 @@ file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lucky-tnt-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/lucky-tnt-mod.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges-biome-o-plenty.pw.toml"
 metafile = true
 
