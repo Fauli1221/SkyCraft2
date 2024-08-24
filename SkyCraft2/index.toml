@@ -11,11 +11,6 @@ hash = "34e93905e41d6eac81479366086ed0d72964fb7ea693fc2bb9d75f47ec022cf6"
 metafile = true
 
 [[files]]
-file = "mods/aerolith.pw.toml"
-hash = "adab2ac6f29ce34c63049f7a647ef0aca6b6481ed04947267658434e48cf6225"
-metafile = true
-
-[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "6860b84fef904b2f024d4490f085889e4b53d21bfee8d8500c14dc8d79ed18f7"
 metafile = true
@@ -838,6 +833,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "05e20dd882685733b299c1db03423f665c569f4c57b8404af98c5bb30776fefd"
+metafile = true
+
+[[files]]
+file = "mods/skylands-over-the-sea.pw.toml"
+hash = "fe441143d56c460be4147b8fbdcb4803f54d72c2b65b3ada47c6622a0578d64a"
 metafile = true
 
 [[files]]
