@@ -169,6 +169,10 @@ file = "mods/connectiblechains.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/construction-wand-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 metafile = true
 
@@ -690,6 +694,10 @@ metafile = true
 
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/stellaris.pw.toml"
 metafile = true
 
 [[files]]
