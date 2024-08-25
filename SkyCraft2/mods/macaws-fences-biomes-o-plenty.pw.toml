@@ -1,13 +1,13 @@
 name = "Macaw's Fences - Biomes O' Plenty"
-filename = "mcwfencesbop-fabric-1.21-1.0.jar"
+filename = "mcwfencesbop-fabric-1.21-1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Tanquv9C/versions/OwXHKQv1/mcwfencesbop-fabric-1.21-1.0.jar"
+url = "https://cdn.modrinth.com/data/Tanquv9C/versions/SGmFDA88/mcwfencesbop-fabric-1.21-1.1.jar"
 hash-format = "sha1"
-hash = "71193a5d62a241abca65444e3485289b865278ce"
+hash = "d62a45b4404946ac2d456844fc67b037e34052be"
 
 [update]
 [update.modrinth]
 mod-id = "Tanquv9C"
-version = "OwXHKQv1"
+version = "SGmFDA88"
