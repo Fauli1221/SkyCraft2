@@ -745,6 +745,10 @@ file = "mods/trinkets.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/trowel.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/unilib.pw.toml"
 metafile = true
 
