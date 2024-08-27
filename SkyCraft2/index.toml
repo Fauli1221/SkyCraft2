@@ -333,6 +333,10 @@ file = "mods/friends-and-foes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/geckoanimfix.pw.toml"
 metafile = true
 
@@ -366,6 +370,10 @@ metafile = true
 
 [[files]]
 file = "mods/improved-anvils.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/inventive-inventory.pw.toml"
 metafile = true
 
 [[files]]
@@ -505,6 +513,10 @@ file = "mods/monolib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/more-barrel-variants.pw.toml"
 metafile = true
 
@@ -573,6 +585,10 @@ file = "mods/owo-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/particular.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 metafile = true
 
@@ -606,6 +622,10 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
 metafile = true
 
 [[files]]
@@ -673,6 +693,10 @@ file = "mods/skylands-over-the-sea.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/snow-real-magic.pw.toml"
 metafile = true
 
@@ -710,6 +734,10 @@ metafile = true
 
 [[files]]
 file = "mods/stringer-things.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
 metafile = true
 
 [[files]]
