@@ -653,10 +653,6 @@ file = "mods/repurposed-structures-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/resizer-gun.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 metafile = true
 
@@ -726,10 +722,6 @@ metafile = true
 
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/stellaris.pw.toml"
 metafile = true
 
 [[files]]
