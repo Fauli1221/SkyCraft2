@@ -185,6 +185,10 @@ file = "mods/crafttweaker.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/crate-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 metafile = true
 
@@ -294,6 +298,10 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
 metafile = true
 
 [[files]]
