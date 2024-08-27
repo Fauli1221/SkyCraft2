@@ -725,6 +725,10 @@ file = "mods/status-effect-bars.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/storage-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/stringer-things.pw.toml"
 metafile = true
 
