@@ -113,6 +113,10 @@ file = "mods/bobby.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bountiful-blocks.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
@@ -534,6 +538,10 @@ metafile = true
 
 [[files]]
 file = "mods/more-furnace-variants-lieonlion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-jukebox-noteblock-variants.pw.toml"
 metafile = true
 
 [[files]]
