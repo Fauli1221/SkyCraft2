@@ -73,6 +73,10 @@ file = "mods/betterend.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/betternether.pw.toml"
 metafile = true
 
