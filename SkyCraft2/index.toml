@@ -13,6 +13,10 @@ file = "mods/alloy-forgery.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 metafile = true
 
@@ -173,10 +177,6 @@ file = "mods/collective.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/combatify.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/connectiblechains.pw.toml"
 metafile = true
 
@@ -226,10 +226,6 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
 metafile = true
 
 [[files]]
