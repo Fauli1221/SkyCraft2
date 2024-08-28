@@ -121,6 +121,10 @@ file = "mods/bountiful-blocks.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/brrp.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
@@ -261,6 +265,10 @@ file = "mods/excessive-building.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/exlines-furniture.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/expanded-storage.pw.toml"
 metafile = true
 
@@ -270,6 +278,14 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/extshape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/extshape_blockus.pw.toml"
 metafile = true
 
 [[files]]
@@ -369,6 +385,10 @@ file = "mods/hd-skins.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ichunutil.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 metafile = true
 
@@ -418,6 +438,10 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/let-sleeping-dogs-lie.pw.toml"
 metafile = true
 
 [[files]]
@@ -533,7 +557,19 @@ file = "mods/more-bookshelf-variants-lieonlion.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/more-cartography-tables.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/more-chest-variants-lieonlion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-chiseled-bookshelf-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-composter-variants.pw.toml"
 metafile = true
 
 [[files]]
@@ -549,7 +585,19 @@ file = "mods/more-jukebox-noteblock-variants.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/more-lectern-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-loom-variants.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/more-mob-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-smithing-tables.pw.toml"
 metafile = true
 
 [[files]]
@@ -566,6 +614,10 @@ metafile = true
 
 [[files]]
 file = "mods/necronomicon.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nemos-mossy-blocks.pw.toml"
 metafile = true
 
 [[files]]
@@ -614,6 +666,10 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pumpkin-pie-delight.pw.toml"
 metafile = true
 
 [[files]]

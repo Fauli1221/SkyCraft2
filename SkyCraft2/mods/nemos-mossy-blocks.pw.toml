@@ -1,0 +1,13 @@
+name = "Nemo's Mossy Blocks"
+filename = "nemos-mossy-blocks-1.4.3-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vpq85eT0/versions/vHSdspva/nemos-mossy-blocks-1.4.3-1.21.1.jar"
+hash-format = "sha1"
+hash = "c34e317ce4a54a55cb8c71550549d9298db8f1d4"
+
+[update]
+[update.modrinth]
+mod-id = "vpq85eT0"
+version = "vHSdspva"
