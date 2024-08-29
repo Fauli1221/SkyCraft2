@@ -33,6 +33,10 @@ file = "mods/analog.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/anyscale.pw.toml"
 metafile = true
 
@@ -549,6 +553,14 @@ file = "mods/more-barrel-variants.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/more-bed-variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-beehive-variants.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/more-bookshelf-variants-lieonlion.pw.toml"
 metafile = true
 
@@ -569,11 +581,23 @@ file = "mods/more-composter-variants.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/more-crafter-variants.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/more-crafting-tables-lieonlion.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/more-feeding-trough-variants.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/more-furnace-variants-lieonlion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-grindstone-variants.pw.toml"
 metafile = true
 
 [[files]]
@@ -593,7 +617,15 @@ file = "mods/more-mob-variants.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/more-shield-variants.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/more-smithing-tables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-smoker-variants.pw.toml"
 metafile = true
 
 [[files]]
