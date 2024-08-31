@@ -1,0 +1,13 @@
+name = "Auto Workstations"
+filename = "auto-workstations-[MC1.21.1]-1.0-rc.27.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rrCzPouM/versions/EjgTuW6x/auto-workstations-%5BMC1.21.1%5D-1.0-rc.27.jar"
+hash-format = "sha1"
+hash = "82c9cb23c65203d92e6906e58bd480ff9bfd1b2e"
+
+[update]
+[update.modrinth]
+mod-id = "rrCzPouM"
+version = "EjgTuW6x"

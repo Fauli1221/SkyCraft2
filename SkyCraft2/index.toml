@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/additional-lanterns.pw.toml"
 metafile = true
 
@@ -62,6 +70,10 @@ metafile = true
 
 [[files]]
 file = "mods/atlas-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/auto-workstations.pw.toml"
 metafile = true
 
 [[files]]
@@ -217,6 +229,10 @@ file = "mods/decorative-lamps.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dense-flowers.pw.toml"
 metafile = true
 
@@ -234,6 +250,10 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
 metafile = true
 
 [[files]]
@@ -258,6 +278,10 @@ metafile = true
 
 [[files]]
 file = "mods/esf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/eternal-starlight.pw.toml"
 metafile = true
 
 [[files]]
@@ -358,6 +382,10 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
 metafile = true
 
 [[files]]
@@ -866,10 +894,6 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
 metafile = true
 
 [[files]]
