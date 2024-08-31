@@ -45,10 +45,6 @@ file = "mods/animal_feeding_trough.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/anyscale.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
