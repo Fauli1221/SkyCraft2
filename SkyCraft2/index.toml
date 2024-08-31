@@ -245,10 +245,6 @@ file = "mods/double-doors.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/dungeons-and-taverns.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/elytra-trims.pw.toml"
 metafile = true
 
