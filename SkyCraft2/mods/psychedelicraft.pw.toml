@@ -1,0 +1,7 @@
+name = "Psychedelicraft"
+filename = "psychedelicraft-1.8.0-beta.3+1.21.jar"
+
+[download]
+url = "https://github.com/Sollace/Psychedelicraft/releases/download/1.8.0-beta.3%2B1.21/psychedelicraft-1.8.0-beta.3+1.21.jar"
+hash-format = "sha256"
+hash = "80f0562ada87b5dcfa9b4f13fea9d552100b67efc6a554a9a8d0cbe4b143e252"

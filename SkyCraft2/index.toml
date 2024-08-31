@@ -725,6 +725,10 @@ file = "mods/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/psychedelicraft.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/pumpkin-pie-delight.pw.toml"
 metafile = true
 
