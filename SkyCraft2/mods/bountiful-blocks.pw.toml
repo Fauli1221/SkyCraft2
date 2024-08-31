@@ -1,13 +1,13 @@
 name = "Bountiful Blocks"
-filename = "bountifulblocks-1.21-0.9.4.jar"
+filename = "bountifulblocks-1.21-0.9.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OmyoZPgm/versions/dpUE7dAB/bountifulblocks-1.21-0.9.4.jar"
+url = "https://cdn.modrinth.com/data/OmyoZPgm/versions/g0PTSHAP/bountifulblocks-1.21-0.9.5.jar"
 hash-format = "sha1"
-hash = "b1d72547d729ab9aad87998fa7d51f4659c915bb"
+hash = "b0802ab74910bf1270b7c5e4c7f356b0c23b1749"
 
 [update]
 [update.modrinth]
 mod-id = "OmyoZPgm"
-version = "dpUE7dAB"
+version = "g0PTSHAP"
