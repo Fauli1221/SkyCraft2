@@ -1,0 +1,7 @@
+name = "refinedstorage-rei-integration"
+filename = "refinedstorage-rei-integration-neoforge-0.3.1.jar"
+
+[download]
+url = "https://github.com/refinedmods/refinedstorage-rei-integration/releases/download/v0.3.1/refinedstorage-rei-integration-neoforge-0.3.1.jar"
+hash-format = "sha256"
+hash = "6f1f4c6db1d7b755b8e8503f5ea886a0df29f6a6d0f6c9f1807f147484fe34bd"
