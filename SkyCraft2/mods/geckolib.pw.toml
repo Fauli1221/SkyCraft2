@@ -1,13 +1,13 @@
 name = "Geckolib"
-filename = "geckolib-fabric-1.21.1-4.6.3.jar"
+filename = "geckolib-neoforge-1.21.1-4.6.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/6zWPwCie/geckolib-fabric-1.21.1-4.6.3.jar"
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/tTc5B1mR/geckolib-neoforge-1.21.1-4.6.3.jar"
 hash-format = "sha1"
-hash = "153f64b7cae81fa93f69f260a42382df1834eee3"
+hash = "4988e8a845f29a55c8574db5c10343a0a0544f52"
 
 [update]
 [update.modrinth]
 mod-id = "8BmcQJ2H"
-version = "6zWPwCie"
+version = "tTc5B1mR"

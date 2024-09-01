@@ -1,13 +1,13 @@
 name = "Natural Size Variation"
-filename = "natural_size_variation-1.1-fabric-1.21.jar"
+filename = "natural_size_variation-1.1-neoforge-1.21.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/20mpneeq/versions/Rn14kqvN/natural_size_variation-1.1-fabric-1.21.jar"
+url = "https://cdn.modrinth.com/data/20mpneeq/versions/dRchvtmn/natural_size_variation-1.1-neoforge-1.21.jar"
 hash-format = "sha1"
-hash = "5b448656a99d95a31aaef8269e5fbc43ddb3293d"
+hash = "bedfe77527c580998912603b60ce432ba1077219"
 
 [update]
 [update.modrinth]
 mod-id = "20mpneeq"
-version = "Rn14kqvN"
+version = "dRchvtmn"

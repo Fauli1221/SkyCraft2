@@ -1,13 +1,13 @@
 name = "Almost Unified"
-filename = "almostunified-fabric-1.21.1-1.0.0.jar"
+filename = "almostunified-neoforge-1.21.1-1.0.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/m8UMDvXT/almostunified-fabric-1.21.1-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/KmjNUqhw/almostunified-neoforge-1.21.1-1.0.0.jar"
 hash-format = "sha1"
-hash = "03f8a281063db9ae0713bd30a8f6950468cc6368"
+hash = "ab8cf372aad59b2e072f411057d2c5598b18d405"
 
 [update]
 [update.modrinth]
 mod-id = "sdaSaQEz"
-version = "m8UMDvXT"
+version = "KmjNUqhw"

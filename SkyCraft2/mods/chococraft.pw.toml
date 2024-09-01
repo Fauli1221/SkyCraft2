@@ -1,13 +1,13 @@
 name = "Chococraft"
-filename = "chococraft-1.21-fabric-0.11.7.jar"
+filename = "chococraft-1.21-neoforge-0.11.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bPTEaC7v/versions/Iknn1hjJ/chococraft-1.21-fabric-0.11.7.jar"
+url = "https://cdn.modrinth.com/data/bPTEaC7v/versions/Xr3mfEwb/chococraft-1.21-neoforge-0.11.7.jar"
 hash-format = "sha1"
-hash = "bbdccf35966578c402ef1e35b34d4c4ae25d060c"
+hash = "c19393074e14a8f64a57bd0254a3a836d81b3384"
 
 [update]
 [update.modrinth]
 mod-id = "bPTEaC7v"
-version = "Iknn1hjJ"
+version = "Xr3mfEwb"

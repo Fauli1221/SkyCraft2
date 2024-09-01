@@ -1,13 +1,13 @@
 name = "Additional Lanterns"
-filename = "additionallanterns-1.1.1-fabric-mc1.21.jar"
+filename = "additionallanterns-1.1.1-neoforge-mc1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jXNvTKds/versions/udH4ecyp/additionallanterns-1.1.1-fabric-mc1.21.jar"
+url = "https://cdn.modrinth.com/data/jXNvTKds/versions/Una49aTZ/additionallanterns-1.1.1-neoforge-mc1.21.jar"
 hash-format = "sha1"
-hash = "656db9074fb7c4997523ab4e082627e8d5972a5a"
+hash = "f60bf69987e0f65b587dc0b7409510d45a021418"
 
 [update]
 [update.modrinth]
 mod-id = "jXNvTKds"
-version = "udH4ecyp"
+version = "Una49aTZ"

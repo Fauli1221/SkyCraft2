@@ -1,7 +1,7 @@
 name = "refinedstorage-emi-integration"
-filename = "refinedstorage-emi-integration-fabric-0.4.1.jar"
+filename = "refinedstorage-emi-integration-neoforge-0.4.1.jar"
 
 [download]
-url = "https://github.com/refinedmods/refinedstorage-emi-integration/releases/download/v0.4.1/refinedstorage-emi-integration-fabric-0.4.1.jar"
+url = "https://github.com/refinedmods/refinedstorage-emi-integration/releases/download/v0.4.1/refinedstorage-emi-integration-neoforge-0.4.1.jar"
 hash-format = "sha256"
-hash = "127c39c5a8f522ca6174c9d46c254847d30c371710448500cc5c2eb9c4e64352"
+hash = "a1423a1ca16cbd0ba7186b02d06a665d3f2c394a429c11eb34089074625639be"

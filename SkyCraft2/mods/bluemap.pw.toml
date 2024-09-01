@@ -1,13 +1,13 @@
 name = "BlueMap"
-filename = "BlueMap-5.3-fabric.jar"
+filename = "BlueMap-5.3-neoforge.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/swbUV1cr/versions/Zpzf0Xab/BlueMap-5.3-fabric.jar"
+url = "https://cdn.modrinth.com/data/swbUV1cr/versions/tStL3eQv/BlueMap-5.3-neoforge.jar"
 hash-format = "sha1"
-hash = "de42710c71257cf51cb2e7594db8e81fa5db9431"
+hash = "eab13d9d8dbe3309797196e726d4396c7bfcac9c"
 
 [update]
 [update.modrinth]
 mod-id = "swbUV1cr"
-version = "Zpzf0Xab"
+version = "tStL3eQv"

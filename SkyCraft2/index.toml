@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 metafile = true
 
@@ -17,10 +21,6 @@ file = "mods/additional-structures.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/alloy-forgery.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/almost-unified.pw.toml"
 metafile = true
 
@@ -29,19 +29,19 @@ file = "mods/alternate-current.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/amplified-nether-height.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/amplified-nether.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/analog.pw.toml"
+file = "mods/animal_feeding_trough.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/animal_feeding_trough.pw.toml"
+file = "mods/animatica.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ante.pw.toml"
 metafile = true
 
 [[files]]
@@ -62,10 +62,6 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/atlas-core.pw.toml"
 metafile = true
 
 [[files]]
@@ -94,10 +90,6 @@ metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/beyondenchant.pw.toml"
 metafile = true
 
 [[files]]
@@ -137,15 +129,7 @@ file = "mods/bountiful-blocks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/brrp.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/camerapture.pw.toml"
+file = "mods/camera-mod.pw.toml"
 metafile = true
 
 [[files]]
@@ -177,10 +161,6 @@ file = "mods/cicada.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cinderscapes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
@@ -193,7 +173,11 @@ file = "mods/connectiblechains.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/construction-wand-fabric.pw.toml"
+file = "mods/connector-extras.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
 metafile = true
 
 [[files]]
@@ -201,7 +185,7 @@ file = "mods/continuity.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
+file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
@@ -217,10 +201,6 @@ file = "mods/creeper-overhaul.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/decorative-lamps.pw.toml"
 metafile = true
 
@@ -233,19 +213,7 @@ file = "mods/dense-flowers.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/double-doors.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/elytra-trims.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
 metafile = true
 
 [[files]]
@@ -254,10 +222,6 @@ metafile = true
 
 [[files]]
 file = "mods/endrem.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-groups.pw.toml"
 metafile = true
 
 [[files]]
@@ -277,10 +241,6 @@ file = "mods/eternal-starlight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/excessive-building.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/exlines-furniture.pw.toml"
 metafile = true
 
@@ -290,22 +250,6 @@ metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/extended-drawers.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/extshape.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/extshape_blockus.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -329,11 +273,7 @@ file = "mods/factory-blocks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/faewufs-diversity.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/fallingleaves.pw.toml"
+file = "mods/fallingleavesforge.pw.toml"
 metafile = true
 
 [[files]]
@@ -341,7 +281,7 @@ file = "mods/fallingtree.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-refabricated.pw.toml"
+file = "mods/farmers-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -357,19 +297,19 @@ file = "mods/fish-of-thieves.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
+file = "mods/forgified-fabric-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes-beekeeper-hut-fabric.pw.toml"
+file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
+file = "mods/friends-and-foes-flowery-mooblooms-forge.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes.pw.toml"
+file = "mods/friends-and-foes-forge.pw.toml"
 metafile = true
 
 [[files]]
@@ -378,10 +318,6 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/geckoanimfix.pw.toml"
 metafile = true
 
 [[files]]
@@ -417,18 +353,6 @@ file = "mods/immersivethunder.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/improved-anvils.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/inventive-inventory.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 metafile = true
 
@@ -437,15 +361,11 @@ file = "mods/jade.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/katters-structures.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/kirin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/kiwi.pw.toml"
+file = "mods/kotlin-for-forge.pw.toml"
 metafile = true
 
 [[files]]
@@ -453,27 +373,11 @@ file = "mods/ksyxis.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lavender.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ledger.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/let-sleeping-dogs-lie.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/libipn.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/lighty.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
@@ -541,31 +445,11 @@ file = "mods/mavm.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/midnightlib.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/mine-little-pony.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mo-structures.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/modmenu.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/monolib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/moonlight.pw.toml"
 metafile = true
 
 [[files]]
@@ -649,10 +533,6 @@ file = "mods/more-smoker-variants.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mythic-upgrades.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/natural-size-variation.pw.toml"
 metafile = true
 
@@ -669,15 +549,7 @@ file = "mods/nemos-mossy-blocks.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/neoenchant.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/neruina.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/new-slab-variants.pw.toml"
 metafile = true
 
 [[files]]
@@ -689,23 +561,7 @@ file = "mods/noisium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/optigui.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/particular.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/pehkui.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/philips-ruins.pw.toml"
 metafile = true
 
 [[files]]
@@ -725,19 +581,11 @@ file = "mods/pumpkin-pie-delight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/qraftyfied.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/quad.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/railroad-blocks.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/raknetify.pw.toml"
 metafile = true
 
 [[files]]
@@ -757,19 +605,11 @@ file = "mods/refinedstorage-emi-integration.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/refinedstorage-trinkets-integration.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/refinedstorage.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/replanting-crops.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/repurposed-structures-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -781,11 +621,11 @@ file = "mods/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/rolling-down-in-the-deep.pw.toml"
+file = "mods/searchables.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/seasonhud-fabric.pw.toml"
+file = "mods/seasonhud.pw.toml"
 metafile = true
 
 [[files]]
@@ -813,10 +653,6 @@ file = "mods/smarter-farmers-farmers-replant.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/snow-real-magic.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 metafile = true
 
@@ -837,15 +673,15 @@ file = "mods/spark.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/stackdeobf.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/status-effect-bars.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/storage-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
 metafile = true
 
 [[files]]
@@ -869,7 +705,7 @@ file = "mods/terrablender.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/the-bumblezone-fabric.pw.toml"
+file = "mods/the-bumblezone.pw.toml"
 metafile = true
 
 [[files]]
@@ -894,10 +730,6 @@ metafile = true
 
 [[files]]
 file = "mods/trowel.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/unilib.pw.toml"
 metafile = true
 
 [[files]]
@@ -926,14 +758,6 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/where-is-it.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/wilder-wild.pw.toml"
 metafile = true
 
 [[files]]

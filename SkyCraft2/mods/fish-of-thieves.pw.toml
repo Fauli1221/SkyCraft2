@@ -1,13 +1,13 @@
 name = "Fish of Thieves"
-filename = "fish_of_thieves-mc1.21-v4.0.1-fabric.jar"
+filename = "fish_of_thieves-mc1.21-v4.0.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BzOTnuqM/versions/pQIC41HZ/fish_of_thieves-mc1.21-v4.0.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/BzOTnuqM/versions/73As9YiZ/fish_of_thieves-mc1.21-v4.0.1-neoforge.jar"
 hash-format = "sha1"
-hash = "05adc8cc0f16c4cc63e7df7bdd453baa057bcac7"
+hash = "9e4e385a45d55a984ff157b2dca81a554e558411"
 
 [update]
 [update.modrinth]
 mod-id = "BzOTnuqM"
-version = "pQIC41HZ"
+version = "73As9YiZ"

@@ -1,13 +1,13 @@
 name = "Pehkui"
-filename = "Pehkui-3.8.3+1.14.4-1.21.jar"
+filename = "Pehkui-3.8.3+1.21-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/t5W7Jfwy/versions/6fzxx6SC/Pehkui-3.8.3%2B1.14.4-1.21.jar"
+url = "https://cdn.modrinth.com/data/t5W7Jfwy/versions/nKHizsl6/Pehkui-3.8.3%2B1.21-neoforge.jar"
 hash-format = "sha1"
-hash = "3ce548910f0aa2cef79dc333982493ccf8d73a3e"
+hash = "4ae35b04b0fca7b170417a12d6da6a693281574b"
 
 [update]
 [update.modrinth]
 mod-id = "t5W7Jfwy"
-version = "6fzxx6SC"
+version = "nKHizsl6"

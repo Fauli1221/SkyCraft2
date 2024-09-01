@@ -1,13 +1,13 @@
 name = "Storage Delight for Farmer's Delight"
-filename = "storagedelight-24.8.27a-1.21-fabric.jar"
+filename = "storagedelight-24.7.28-1.21-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/ouAYPEOG/storagedelight-24.8.27a-1.21-fabric.jar"
+url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/5cJ55O4U/storagedelight-24.7.28-1.21-neoforge.jar"
 hash-format = "sha1"
-hash = "ed5078a4a70c22eaccd7fe970dd3538368359d73"
+hash = "0e22195488684307ed967e3c1a571f53465dc6be"
 
 [update]
 [update.modrinth]
 mod-id = "LTTvOp5L"
-version = "ouAYPEOG"
+version = "5cJ55O4U"

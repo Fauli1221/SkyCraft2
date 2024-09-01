@@ -8,8 +8,8 @@ file = "index.toml"
 hash-format = "sha256"
 
 [versions]
-fabric = "0.16.3"
 minecraft = "1.21.1"
+neoforge = "21.1.31"
 
 [options]
 acceptable-game-versions = ["1.21"]

@@ -1,13 +1,13 @@
 name = "Macaw's Holidays"
-filename = "mcw-holidays-1.1.0-mc1.21.1fabric.jar"
+filename = "mcw-holidays-1.1.0-mc1.21.1neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rH20L2Lp/versions/VycPNGaJ/mcw-holidays-1.1.0-mc1.21.1fabric.jar"
+url = "https://cdn.modrinth.com/data/rH20L2Lp/versions/9L7GBEl5/mcw-holidays-1.1.0-mc1.21.1neoforge.jar"
 hash-format = "sha1"
-hash = "a5cbc9f88649a640bfadb4d5b303ccf9e0b66f46"
+hash = "3f04e27df578f845c5d9f5b6e9e52bbabec990b9"
 
 [update]
 [update.modrinth]
 mod-id = "rH20L2Lp"
-version = "VycPNGaJ"
+version = "9L7GBEl5"

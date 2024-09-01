@@ -1,13 +1,13 @@
 name = "Expanded Storage"
-filename = "expandedstorage-fabric-1.21-14.1.3.jar"
+filename = "expandedstorage-neoforge-1.21-14.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jCCPlP3c/versions/Lk3QveWE/expandedstorage-fabric-1.21-14.1.3.jar"
+url = "https://cdn.modrinth.com/data/jCCPlP3c/versions/jGWFrJTX/expandedstorage-neoforge-1.21-14.1.2.jar"
 hash-format = "sha1"
-hash = "f9e4f68bd5ba863be70b9a401a627b40045aa19a"
+hash = "3924dd0d3203ee28a66e44af4372eb64977dba9b"
 
 [update]
 [update.modrinth]
 mod-id = "jCCPlP3c"
-version = "Lk3QveWE"
+version = "jGWFrJTX"

@@ -1,13 +1,13 @@
 name = "Animal Feeding Trough"
-filename = "animal_feeding_trough-1.1.1+1.21.jar"
+filename = "animal_feeding_trough-1.1.1+1.21-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bRFWnJ87/versions/iWvDjYox/animal_feeding_trough-1.1.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/bRFWnJ87/versions/LTE7N4LJ/animal_feeding_trough-1.1.1%2B1.21-neoforge.jar"
 hash-format = "sha1"
-hash = "f2e4b91fa52d913db9f071143a25139ead32473f"
+hash = "10280b8fe5ad98e74075b64691c0e5dc0e6699b7"
 
 [update]
 [update.modrinth]
 mod-id = "bRFWnJ87"
-version = "iWvDjYox"
+version = "LTE7N4LJ"
