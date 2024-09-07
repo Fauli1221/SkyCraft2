@@ -1,13 +1,13 @@
 name = "Crate Delight for Farmer's Delight"
-filename = "cratedelight-24.7.27-1.21-neoforge.jar"
+filename = "cratedelight-24.09.03-1.21-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/XTtFkQpo/cratedelight-24.7.27-1.21-neoforge.jar"
+url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/oE7rBQO5/cratedelight-24.09.03-1.21-neoforge.jar"
 hash-format = "sha1"
-hash = "12ca15e1edafa65b2d9e1741b7ab2758563f488e"
+hash = "e0e7f12ab8d3e7c2e2f070fb14508273bf94955c"
 
 [update]
 [update.modrinth]
 mod-id = "9rlXSyLg"
-version = "XTtFkQpo"
+version = "oE7rBQO5"

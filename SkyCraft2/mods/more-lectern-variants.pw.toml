@@ -1,13 +1,13 @@
 name = "More Lectern Variants"
-filename = "MoreLecternVariants-1.6.0+1.21.1-Fabric.jar"
+filename = "MoreLecternVariants-1.6.1+1.21.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pLsa93bN/versions/JRvVeoH3/MoreLecternVariants-1.6.0%2B1.21.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/pLsa93bN/versions/9u0ijRAE/MoreLecternVariants-1.6.1%2B1.21.1-Fabric.jar"
 hash-format = "sha1"
-hash = "3b427895c25ae4f986ac54750e7e3f5660dcfb23"
+hash = "17527183372d2ab1c15339046ea42a7486c9402f"
 
 [update]
 [update.modrinth]
 mod-id = "pLsa93bN"
-version = "JRvVeoH3"
+version = "9u0ijRAE"

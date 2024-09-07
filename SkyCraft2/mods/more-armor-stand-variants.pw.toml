@@ -1,0 +1,13 @@
+name = "More Armor Stand Variants (MStV+)"
+filename = "MoreArmorStandVariants-1.0.0+1.21-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jcjz5ev6/versions/SSN6SoFT/MoreArmorStandVariants-1.0.0%2B1.21-Fabric.jar"
+hash-format = "sha1"
+hash = "979ca1abf0351954792f4de0b24a32b44d8531a9"
+
+[update]
+[update.modrinth]
+mod-id = "Jcjz5ev6"
+version = "SSN6SoFT"

@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "datapacks/512 overworld.zip"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 metafile = true
 
@@ -26,6 +29,10 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
 metafile = true
 
 [[files]]
@@ -173,6 +180,10 @@ file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 metafile = true
 
@@ -182,6 +193,10 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dataloader.pw.toml"
 metafile = true
 
 [[files]]
@@ -198,6 +213,10 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
 metafile = true
 
 [[files]]
@@ -233,7 +252,7 @@ file = "mods/expanded-storage.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/explosive-enhancement.pw.toml"
+file = "mods/explosive-enhancement-forge.pw.toml"
 metafile = true
 
 [[files]]
@@ -349,6 +368,10 @@ file = "mods/jade.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/katters-structures-only-dungeon.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/kirin.pw.toml"
 metafile = true
 
@@ -397,6 +420,10 @@ file = "mods/macaws-furniture.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/macaws-furnitures-biomes-o-plenty.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/macaws-holidays.pw.toml"
 metafile = true
 
@@ -422,10 +449,6 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/mambience.pw.toml"
 metafile = true
 
 [[files]]
@@ -462,6 +485,14 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-armor-stand-variants.pw.toml"
 metafile = true
 
 [[files]]
@@ -549,6 +580,10 @@ file = "mods/more-smoker-variants.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/more-stick-variants.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/natural-size-variation.pw.toml"
 metafile = true
 
@@ -577,6 +612,14 @@ file = "mods/noisium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 metafile = true
 
@@ -598,6 +641,10 @@ metafile = true
 
 [[files]]
 file = "mods/pumpkin-pie-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/qraftyfied.pw.toml"
 metafile = true
 
 [[files]]
@@ -653,6 +700,10 @@ file = "mods/seasonhud.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 metafile = true
 
@@ -666,10 +717,6 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/skylands-over-the-sea.pw.toml"
 metafile = true
 
 [[files]]
@@ -734,6 +781,10 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
 metafile = true
 
 [[files]]

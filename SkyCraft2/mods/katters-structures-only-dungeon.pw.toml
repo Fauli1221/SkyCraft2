@@ -1,0 +1,13 @@
+name = "Katters Structures - Dungeon"
+filename = "katters-structures-only-dungeon-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VAVLEOBG/versions/ppuwO5QS/katters-structures-only-dungeon-2.0.1.jar"
+hash-format = "sha1"
+hash = "100fa5f16cc3ec6bf2eb67a4ed490a17e4ce920e"
+
+[update]
+[update.modrinth]
+mod-id = "VAVLEOBG"
+version = "ppuwO5QS"
