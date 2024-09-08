@@ -820,6 +820,10 @@ file = "mods/variants-and-ventures.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/vics-point-blank.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/vistas.pw.toml"
 metafile = true
 
