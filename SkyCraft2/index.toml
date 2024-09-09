@@ -652,6 +652,10 @@ file = "mods/quad.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/radium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/railroad-blocks.pw.toml"
 metafile = true
 
