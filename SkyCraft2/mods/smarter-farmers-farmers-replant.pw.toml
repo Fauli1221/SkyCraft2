@@ -1,13 +1,13 @@
 name = "Smarter Farmers (farmers replant)"
-filename = "smarterfarmers-1.21-2.1.2-neoforge.jar"
+filename = "smarterfarmers-1.21-2.1.4-neoforge.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/QONVIQLa/smarterfarmers-1.21-2.1.2-neoforge.jar"
+url = "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/B5PMx8yg/smarterfarmers-1.21-2.1.4-neoforge.jar"
 hash-format = "sha1"
-hash = "eb0fa790c09f7f11044dffa0ae43a2947723c20f"
+hash = "af50b2979b1a383e92e5a6c2b56e08b4c31e8270"
 
 [update]
 [update.modrinth]
 mod-id = "Bh6ZOMvp"
-version = "QONVIQLa"
+version = "B5PMx8yg"

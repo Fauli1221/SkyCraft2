@@ -1,13 +1,13 @@
 name = "Oh The Biomes We've Gone"
-filename = "Oh-The-Biomes-Weve-Gone-NeoForge-2.0.0-Beta.jar"
+filename = "Oh-The-Biomes-Weve-Gone-NeoForge-2.0.1-Beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NTi7d3Xc/versions/RLbMRvwa/Oh-The-Biomes-Weve-Gone-NeoForge-2.0.0-Beta.jar"
+url = "https://cdn.modrinth.com/data/NTi7d3Xc/versions/pm6j1W0x/Oh-The-Biomes-Weve-Gone-NeoForge-2.0.1-Beta.jar"
 hash-format = "sha1"
-hash = "07d4699b076307048eaddd04d3a236da9f1d2e6c"
+hash = "9bbe51e21755e7daf5e49188d5043691a2853ecc"
 
 [update]
 [update.modrinth]
 mod-id = "NTi7d3Xc"
-version = "RLbMRvwa"
+version = "pm6j1W0x"
