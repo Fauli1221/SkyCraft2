@@ -1,13 +1,13 @@
 name = "Fzzy Config"
-filename = "fzzy_config-0.4.0+1.21+neoforge.jar"
+filename = "fzzy_config-0.4.3+1.21+neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hYykXjDp/versions/jHtANHBQ/fzzy_config-0.4.0%2B1.21%2Bneoforge.jar"
+url = "https://cdn.modrinth.com/data/hYykXjDp/versions/NzrIH6HE/fzzy_config-0.4.3%2B1.21%2Bneoforge.jar"
 hash-format = "sha1"
-hash = "d8d9cd5acfbfc15e3a1c3282d7b11db73c971c9f"
+hash = "340b07d06c569f07ad718503ef575596bea32959"
 
 [update]
 [update.modrinth]
 mod-id = "hYykXjDp"
-version = "jHtANHBQ"
+version = "NzrIH6HE"

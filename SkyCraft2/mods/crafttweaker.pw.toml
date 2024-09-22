@@ -1,13 +1,13 @@
 name = "CraftTweaker"
-filename = "CraftTweaker-neoforge-1.21.1-21.0.2.jar"
+filename = "CraftTweaker-neoforge-1.21.1-21.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Xg35A4rS/versions/ldnoNRvl/CraftTweaker-neoforge-1.21.1-21.0.2.jar"
+url = "https://cdn.modrinth.com/data/Xg35A4rS/versions/HtaO9IHo/CraftTweaker-neoforge-1.21.1-21.0.3.jar"
 hash-format = "sha1"
-hash = "4ce53378aea5b847de99dad0eb6d0b5830e4e271"
+hash = "878039c194ebe1fe7d052969a31a9e19af35d768"
 
 [update]
 [update.modrinth]
 mod-id = "Xg35A4rS"
-version = "ldnoNRvl"
+version = "HtaO9IHo"
