@@ -1,0 +1,13 @@
+name = "Mine Little Pony: Into The Multiverse"
+filename = "mine_little_pony_itm-2.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3vuASpZs/versions/3LUkrCDP/mine_little_pony_itm-2.0.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "4f5b3c981c2ba137a270a43fc851a0983a03f0f0c01ebc8b02ef5c77a84ff921cd38aa743c37a59b7ada179dd0ef35e107804f8a5237c9413f64eaa1e1c6d3b5"
+
+[update]
+[update.modrinth]
+mod-id = "3vuASpZs"
+version = "3LUkrCDP"

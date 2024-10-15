@@ -1,13 +1,13 @@
 name = "Arts & Crafts"
-filename = "arts_and_crafts-neoforge-1.21-1.1.9.jar"
+filename = "arts_and_crafts-neoforge-1.21-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JI9mEkvq/versions/E7hMrX19/arts_and_crafts-neoforge-1.21-1.1.9.jar"
+url = "https://cdn.modrinth.com/data/JI9mEkvq/versions/WQQIH58D/arts_and_crafts-neoforge-1.21-1.2.0.jar"
 hash-format = "sha1"
-hash = "5970cde61ed2dccb4c05bbc4b9f1301707607f1a"
+hash = "3078cd4ffcca963cb9ee5bb31f39856acf7a41e8"
 
 [update]
 [update.modrinth]
 mod-id = "JI9mEkvq"
-version = "E7hMrX19"
+version = "WQQIH58D"

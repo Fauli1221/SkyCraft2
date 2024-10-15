@@ -1,0 +1,13 @@
+name = "Animatica Foxified"
+filename = "AnimaticaFoxified-0.1.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nrSnNUz4/versions/qsFVn4Rr/AnimaticaFoxified-0.1.0%2B1.21.jar"
+hash-format = "sha1"
+hash = "a746b1241df01117022c3071d37046998fcdfa8d"
+
+[update]
+[update.modrinth]
+mod-id = "nrSnNUz4"
+version = "qsFVn4Rr"

@@ -1,13 +1,13 @@
 name = "Nemo's Mossy Blocks"
-filename = "nemos-mossy-blocks-1.5-1.21.1.jar"
+filename = "nemos-mossy-blocks-1.6-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vpq85eT0/versions/dyMjY5Iw/nemos-mossy-blocks-1.5-1.21.1.jar"
-hash-format = "sha1"
-hash = "9e5f797a74708eff016c71c2590a03975db758a4"
+url = "https://cdn.modrinth.com/data/vpq85eT0/versions/6YEAfLGG/nemos-mossy-blocks-1.6-1.21.1.jar"
+hash-format = "sha512"
+hash = "017ad931d47f97579db3a7025e25e25c4cf1386d0fe82bccf90c3dfb8c32666b55f6fa3f15b0b344ad2704d28d4847803ba6aa8c55b87c9005886ba78b0502e4"
 
 [update]
 [update.modrinth]
 mod-id = "vpq85eT0"
-version = "dyMjY5Iw"
+version = "6YEAfLGG"

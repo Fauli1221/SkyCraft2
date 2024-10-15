@@ -8,10 +8,6 @@ file = "mods/accessories-cc-layer.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/accessories-tc-layer.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/accessories.pw.toml"
 metafile = true
 
@@ -44,7 +40,7 @@ file = "mods/animal_feeding_trough.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/animatica.pw.toml"
+file = "mods/animatica-foxified.pw.toml"
 metafile = true
 
 [[files]]
@@ -336,10 +332,6 @@ file = "mods/glitchcore.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/grass-overhaul.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 metafile = true
 
@@ -480,6 +472,10 @@ file = "mods/mine-little-pony.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mlp-itm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 metafile = true
 
@@ -492,95 +488,7 @@ file = "mods/moonlight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/more-armor-stand-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-barrel-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-bed-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-beehive-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-bookshelf-variants-lieonlion.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-cartography-tables.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-chest-variants-lieonlion.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-chiseled-bookshelf-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-composter-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-crafter-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-crafting-tables-lieonlion.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/more-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-feeding-trough-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-furnace-variants-lieonlion.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-grindstone-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-jukebox-noteblock-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-lectern-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-loom-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-mob-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-shield-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-smithing-tables.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-smoker-variants.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/more-stick-variants.pw.toml"
 metafile = true
 
 [[files]]
@@ -809,6 +717,14 @@ metafile = true
 
 [[files]]
 file = "mods/trowel.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/unicopia-blockus-addon.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/unicopia.pw.toml"
 metafile = true
 
 [[files]]
