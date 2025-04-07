@@ -1,0 +1,13 @@
+name = "Point Blank: Recipe"
+filename = "PointBlankGunPacks-fabric-0.6.95.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dnFDmCeB/versions/1EbxH3Nx/PointBlankGunPacks-fabric-0.6.95.jar"
+hash-format = "sha512"
+hash = "6ac3c2c2f03da343ced7cef5981fda358767e36c9a9cb7555299472ed6a475f42cbb12174002b0a95be2a9e5e73e9bb448e91bba377fedb0c8f1a6c1ad821384"
+
+[update]
+[update.modrinth]
+mod-id = "dnFDmCeB"
+version = "1EbxH3Nx"

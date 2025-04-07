@@ -1,0 +1,13 @@
+name = "BlocksExpansion"
+filename = "block.expansion-1.3.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hAQuYpSW/versions/I1L65zLP/block.expansion-1.3.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "119f093c19a9f9aaf7e149e0ed1b3b0eb17b1058cca65e8f8e3dd894e0fcb98cd3ed6af9e2f707c409a784684db33e08d2804d5dd6b8b3def8a9e17b96c3b3c3"
+
+[update]
+[update.modrinth]
+mod-id = "hAQuYpSW"
+version = "I1L65zLP"

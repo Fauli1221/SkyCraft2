@@ -1,0 +1,13 @@
+name = "Permanent Sponges"
+filename = "PermanentSponges-v21.1.0-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p6prwv2Q/versions/m4txowuH/PermanentSponges-v21.1.0-1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "dd52b9590e7f82444e7f07a2db7095e1372aa6bc70b0c30d123a596d428e8987a764ffe1f30b461a5f6b5691d3c77b53b346db8537eab3d1c99782a3f7e7dfc1"
+
+[update]
+[update.modrinth]
+mod-id = "p6prwv2Q"
+version = "m4txowuH"

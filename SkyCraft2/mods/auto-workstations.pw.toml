@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rrCzPouM/versions/EjgTuW6x/auto-workstations-%5BMC1.21.1%5D-1.0-rc.27.jar"
-hash-format = "sha1"
-hash = "82c9cb23c65203d92e6906e58bd480ff9bfd1b2e"
+hash-format = "sha512"
+hash = "d9060cebfc5670982e8a8b053ff8a0a1983067f1d6c86517186da8ece1e25e6223b442fa90241efc2c9a8498c910919a893bf7449c922d211f30e5a3dd7526d5"
 
 [update]
 [update.modrinth]

@@ -1,0 +1,13 @@
+name = "Oritech"
+filename = "oritech-fabric-0.14.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4sYI62kA/versions/xlxPyDJV/oritech-fabric-0.14.5.jar"
+hash-format = "sha512"
+hash = "5c15bd3767bb2620f04d6e26e78b5dc5eccc6cd884c0d13705212473d4200ead8eb046964fef377bdb473a866d14d6b511efe7dd5c7f16ebe7ead14af0eafd9e"
+
+[update]
+[update.modrinth]
+mod-id = "4sYI62kA"
+version = "xlxPyDJV"

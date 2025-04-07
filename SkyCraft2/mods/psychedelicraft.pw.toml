@@ -1,7 +1,13 @@
 name = "Psychedelicraft"
-filename = "psychedelicraft-1.8.0-beta.3+1.21.jar"
+filename = "psychedelicraft-1.8.0-beta.9+1.21.jar"
+side = "both"
 
 [download]
-url = "https://github.com/Sollace/Psychedelicraft/releases/download/1.8.0-beta.3%2B1.21/psychedelicraft-1.8.0-beta.3+1.21.jar"
-hash-format = "sha256"
-hash = "80f0562ada87b5dcfa9b4f13fea9d552100b67efc6a554a9a8d0cbe4b143e252"
+url = "https://cdn.modrinth.com/data/8u2zZjRq/versions/W6R2ihBq/psychedelicraft-1.8.0-beta.9%2B1.21.jar"
+hash-format = "sha512"
+hash = "4c8b14b55d986d338cd191f3bc89f4269b97569d5ce1d300ba9c49ae62f7730b964a5111442829157d4b16f9692abb7db5df8c7fce69997940fc6f47299e4e59"
+
+[update]
+[update.modrinth]
+mod-id = "8u2zZjRq"
+version = "W6R2ihBq"

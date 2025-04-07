@@ -1,0 +1,13 @@
+name = "Extended Block Shapes - Blockus"
+filename = "extshape_blockus-fabric-3.1.0-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qAQHIBF8/versions/qjj5Eqga/extshape_blockus-fabric-3.1.0-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "c8a368dad0eb9072722bc2a2ea9249673d45785447911995a77df0c17a816ac9dde69a4b0e78b0d1e93dc2ca0d1b9b712d24bde3d698e233c1c23e6821bf7f29"
+
+[update]
+[update.modrinth]
+mod-id = "qAQHIBF8"
+version = "qjj5Eqga"

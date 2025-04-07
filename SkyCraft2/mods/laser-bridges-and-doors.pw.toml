@@ -1,13 +1,13 @@
 name = "Laser Bridges & Doors"
-filename = "laserbridges-1.21.1-1-neoforge.jar"
+filename = "laserbridges-1.21.1-fabric-5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wz31BboV/versions/oK7DFi9F/laserbridges-1.21.1-1-neoforge.jar"
-hash-format = "sha1"
-hash = "679aa1c20b3255730f8b9b3528741a31935d8bf9"
+url = "https://cdn.modrinth.com/data/wz31BboV/versions/Uq1ExU9Y/laserbridges-1.21.1-fabric-5.jar"
+hash-format = "sha512"
+hash = "776f26acf88fd952cb584ad7929a975c985e416f93987972282a0c7da84b0264da3ebd75f3981cd5f97116008dc425141d0fb09da4051a16e2c315eee34e0721"
 
 [update]
 [update.modrinth]
 mod-id = "wz31BboV"
-version = "oK7DFi9F"
+version = "Uq1ExU9Y"

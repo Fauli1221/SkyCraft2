@@ -1,13 +1,13 @@
 name = "Lighty"
-filename = "lighty-neoforge-3.0.0-beta.4+1.21.jar"
+filename = "lighty-fabric-3.0.0-beta.8+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yjvKidNM/versions/pp45AOCt/lighty-neoforge-3.0.0-beta.4%2B1.21.jar"
-hash-format = "sha1"
-hash = "e9e8832479493d973d90d504005cf4a3be9a8e94"
+url = "https://cdn.modrinth.com/data/yjvKidNM/versions/vsdQU0pB/lighty-fabric-3.0.0-beta.8%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "62244c699740c13e7fb61a66017cb60802af02123d4b419971e0e38a9d215f7276da7ed948939c37e7a39e028c42417f00fafe3de2a67b8d417a583df0363a41"
 
 [update]
 [update.modrinth]
 mod-id = "yjvKidNM"
-version = "pp45AOCt"
+version = "vsdQU0pB"

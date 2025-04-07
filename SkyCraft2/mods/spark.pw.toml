@@ -1,13 +1,13 @@
 name = "spark"
-filename = "spark-1.10.109-neoforge.jar"
+filename = "spark-1.10.109-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/l6YH9Als/versions/jg1XqG66/spark-1.10.109-neoforge.jar"
-hash-format = "sha1"
-hash = "c21cab62a316eb97a9757671686c8ab3895bd154"
+url = "https://cdn.modrinth.com/data/l6YH9Als/versions/cALUj9l1/spark-1.10.109-fabric.jar"
+hash-format = "sha512"
+hash = "367f574f6d28432067f09737577d799ced9c309c1725da1d09ffdfe10eacf461a66967205cc938131afbcc8b8255c8c25f8aa516e15f061c6481b6e7b8c94250"
 
 [update]
 [update.modrinth]
 mod-id = "l6YH9Als"
-version = "jg1XqG66"
+version = "cALUj9l1"

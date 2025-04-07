@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/gxkkdmTQ/versions/dUVS8L6p/TLA-Api-1.2.0.jar"
-hash-format = "sha1"
-hash = "6fe076f4d21c9d4649c898b207f07255fd68381f"
+hash-format = "sha512"
+hash = "a66a8036271c66597a49e14753830e411fd12c64628ef9b7aebf3dea2c6c03aeab8d3418a6219b6f5b4de40a06989a1d036e9e7067d913a45cc04c8ccfebd699"
 
 [update]
 [update.modrinth]

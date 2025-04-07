@@ -1,13 +1,13 @@
-name = "Variants & Ventures"
-filename = "variantsandventures-neoforge-mc1.21.1-1.0.6.jar"
+name = "Variants&Ventures"
+filename = "variantsandventures-fabric-mc1.21.1-1.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lNDRiXkY/versions/lGE1iGpV/variantsandventures-neoforge-mc1.21.1-1.0.6.jar"
-hash-format = "sha1"
-hash = "cb86fe10d37add774545fd2680fc38a8655e7ad4"
+url = "https://cdn.modrinth.com/data/lNDRiXkY/versions/azHwbrAu/variantsandventures-fabric-mc1.21.1-1.0.11.jar"
+hash-format = "sha512"
+hash = "dc74cc4780e5a9468709eba1f2bb75bfc57294552f1ecf0e182d1fb551f2123326cefee77712ed809de77ce0fa7e44b2d8b6889bdd9e7f28f456ed62b92d76a7"
 
 [update]
 [update.modrinth]
 mod-id = "lNDRiXkY"
-version = "lGE1iGpV"
+version = "azHwbrAu"

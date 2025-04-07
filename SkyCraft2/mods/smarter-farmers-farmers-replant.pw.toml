@@ -1,13 +1,13 @@
 name = "Smarter Farmers (farmers replant)"
-filename = "smarterfarmers-1.21-2.1.4-neoforge.jar"
+filename = "smarterfarmers-1.21-2.2.2-fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/B5PMx8yg/smarterfarmers-1.21-2.1.4-neoforge.jar"
-hash-format = "sha1"
-hash = "af50b2979b1a383e92e5a6c2b56e08b4c31e8270"
+url = "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/bPeHDepY/smarterfarmers-1.21-2.2.2-fabric.jar"
+hash-format = "sha512"
+hash = "069d7bff54eadb728287a019b28b3b5c40c95edc3500089e8ad84814322a4b7073e39828f2a50f40303018451e1cc236bde2882d999b4d99392b5e81c33bf489"
 
 [update]
 [update.modrinth]
 mod-id = "Bh6ZOMvp"
-version = "B5PMx8yg"
+version = "bPeHDepY"

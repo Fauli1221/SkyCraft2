@@ -1,14 +1,13 @@
-name = "qraftyfied"
-filename = "qraftyfied-9.0.1.jar"
+name = "qraftyfied: STRUCTURES"
+filename = "qraftyfied-9.1.1.jar"
 side = "both"
-pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/ibnDR6oc/versions/q6q3joBs/qraftyfied-9.0.1.jar"
-hash-format = "sha1"
-hash = "1c0ed7fbd29443ea7bf3dc82786036c9a0927d6d"
+url = "https://cdn.modrinth.com/data/ibnDR6oc/versions/Jsozd95o/qraftyfied-9.1.1.jar"
+hash-format = "sha512"
+hash = "8d5a38481fe502d5e888dfe63aabbe49f3e44b9aa2ed532f0b408f548acbff33fe2113f99acef28b10ae1c7ef768a47439ddeba5dfda1e1dd0ce134999212396"
 
 [update]
 [update.modrinth]
 mod-id = "ibnDR6oc"
-version = "q6q3joBs"
+version = "Jsozd95o"

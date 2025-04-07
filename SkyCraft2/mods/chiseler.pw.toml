@@ -1,0 +1,13 @@
+name = "Chiseler"
+filename = "chiseler-fabric-1.0.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PAmXvRwX/versions/Qx2D1O8r/chiseler-fabric-1.0.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "67a13a741d5f442adacd2ad828f6bcdd3b7e6d0c90c68dd2189fe7845ffe5635084028b158e27e445707a2e283a954f709bd9a8ad9d276cd967db509f3d06d43"
+
+[update]
+[update.modrinth]
+mod-id = "PAmXvRwX"
+version = "Qx2D1O8r"
