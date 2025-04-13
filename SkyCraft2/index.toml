@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
-hash = "09d64a62e8e7d01e2fa9922ad01e41eeac28e7288962a7855b62db4e89c3928a"
+hash = "23dd8eeb7f12229abeb8235f3823292394e34f21b67181b9a4542149926c73bb"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "84b979bb89f1550057cf02e8ba0b016354c38ed57f0bc1261a32db03e48cbb32"
+hash = "c12480c234faaf097cd5949523a45099f3ce839505ebad0fd376e485d87195d9"
 metafile = true
 
 [[files]]
@@ -128,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
-metafile = true
-
-[[files]]
-file = "mods/better-tridents.pw.toml"
-hash = "3ab2c100e5b00ab71d35061925c9e4037986e5456d37adea17bad3b95595f3d6"
 metafile = true
 
 [[files]]
@@ -243,11 +238,6 @@ metafile = true
 [[files]]
 file = "mods/colossal-chests.pw.toml"
 hash = "84a17dd2ed18bb27a63277eed7057fa8c604c77c23c41f601574164aa8ad4c78"
-metafile = true
-
-[[files]]
-file = "mods/combat-nouveau.pw.toml"
-hash = "84c1b6b3d4685693fd368792c04ee80fb68a34de4217ebb34ff4762493df997d"
 metafile = true
 
 [[files]]
@@ -572,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "98fae9b42f2ddaa8e842044d9cfbd785b8db282c2df581c381ea3153654d3e54"
+hash = "6a3030da189e4ff12019cdfd6824c84cb0d422e06b7c9e40afab6082727494ba"
 metafile = true
 
 [[files]]
@@ -613,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/i-want-it-earlier.pw.toml"
 hash = "9289b3ce05296e85f78b0a50e8589da051be07aae6abf4f2a07dfdbacdb2d983"
+metafile = true
+
+[[files]]
+file = "mods/iceandfire-ce.pw.toml"
+hash = "4eebcd60ca871e5b0dac7d294653aed761a0dd886cc8a9a403ee625359429238"
 metafile = true
 
 [[files]]
@@ -658,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/jinxedlib.pw.toml"
 hash = "2e22fda133febfacfe7eb45a83ab78c47e2ea876338b6005356442ece1a5aa32"
+metafile = true
+
+[[files]]
+file = "mods/jupiter.pw.toml"
+hash = "e78f19104755d446e1b5ffaa7974dac21b364bc9fbbb0e096b7920c488e3811f"
 metafile = true
 
 [[files]]
@@ -827,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6be9bf8af4c867d6cc7c680df870e2b878fbec4090160f3df3a8426c61216472"
+hash = "d2eef785df399c7b45f20ecc3d07e1749b4bff2b2f87dc1c47d3a339996569c2"
 metafile = true
 
 [[files]]
@@ -1017,7 +1017,7 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "8370d77539c8459c79a90a5feaf2d91a44eb29228db27f9c1701ce09ea0dab0d"
+hash = "561c73e663a408a07be5939182db6a72ff30cffd6b7d6704eb58b68e692b19ba"
 metafile = true
 
 [[files]]
@@ -1122,7 +1122,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "810c95d1b25f37e995427d68a3d1b1bc2d69d172896d8a36cb3dc9a71fa2429f"
+hash = "08b9cd878c5201b709e991201c4fa1e5e4bd2de42a911cd8b61a38cad319c0a3"
 metafile = true
 
 [[files]]
@@ -1217,7 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/trailier-tales.pw.toml"
-hash = "d9269ab72b076181dd973af38fff925b2b754f17a3c38b219356b5bf770c8729"
+hash = "c10c79dc9c0d7096876f59babbfa5a257c7dc7b61748f5594230ed7fa623ec75"
 metafile = true
 
 [[files]]
@@ -1253,6 +1253,11 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "456d5d5eb8de2cfe1efd19b51ffb1626fe5ddc5f8e914e1974c1c40dc50d5345"
+metafile = true
+
+[[files]]
+file = "mods/uranus.pw.toml"
+hash = "a45546a9b5c26025feeffd1ea86732754e508daf09650e18197d2bd6ecb1973e"
 metafile = true
 
 [[files]]
@@ -1292,7 +1297,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "14d81e49b8a04eb80fa027f7113a546e8ea2bcad356b150a3ca58259a837fc3c"
+hash = "b007efe1bfdafdf4a4e05091dda2e82bcde641a51a587efb2f972576fb77222f"
 metafile = true
 
 [[files]]
