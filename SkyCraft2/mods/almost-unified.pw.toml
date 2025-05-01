@@ -1,13 +1,13 @@
 name = "Almost Unified"
-filename = "almostunified-fabric-1.21.1-1.2.3.jar"
+filename = "almostunified-fabric-1.21.1-1.2.5.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/aBxj3jfp/almostunified-fabric-1.21.1-1.2.3.jar"
+url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/7xuWH12w/almostunified-fabric-1.21.1-1.2.5.jar"
 hash-format = "sha512"
-hash = "dcddfb39add5daf72ed6d523d0f5ad9bb939c4e2b50554fef2861f49c037502dfead8f14c4952af31a8f80aa9f0b1cc4ba0096052710484604fff6392c0a1a21"
+hash = "83c6d9d0ddbd5eb1eb7959cb7b336e92d0a206fed2007c070e6afb6f05a45f8174d5c2a74af2ed14ea8beb5d2d1871f073ee47af754e0f0cd3cb00a87d520cb9"
 
 [update]
 [update.modrinth]
 mod-id = "sdaSaQEz"
-version = "aBxj3jfp"
+version = "7xuWH12w"

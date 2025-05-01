@@ -1,13 +1,13 @@
 name = "Macaw's TerraformersMC"
-filename = "mcwterraformersmc-fabric-1.21.1-1.0.jar"
+filename = "mcwterraformersmc-fabric-1.21.1-1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5uSvd1Ca/versions/1aVe5qd0/mcwterraformersmc-fabric-1.21.1-1.0.jar"
+url = "https://cdn.modrinth.com/data/5uSvd1Ca/versions/BRS5FyKc/mcwterraformersmc-fabric-1.21.1-1.1.jar"
 hash-format = "sha512"
-hash = "dc3ead262ce2843a44f9abd8fa7aa323245b28a3aa5a8ae3b2cd724d659bfe3474ba743ea0863540e50f2f3e00dc210882b29d62c82305cbfca031deed10fdc7"
+hash = "e6ed3bc68eacc26112091f598891a41de8be7fda2a519c514e45011998835cf7aa5547ce563323ac5ace620dc68bfb154f6104b10d0debbe1a5dde7532b95c19"
 
 [update]
 [update.modrinth]
 mod-id = "5uSvd1Ca"
-version = "1aVe5qd0"
+version = "BRS5FyKc"

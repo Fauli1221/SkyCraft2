@@ -1,0 +1,13 @@
+name = "Ductwork"
+filename = "ductwork-0.9.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E5Qy8rmu/versions/5bAKF14k/ductwork-0.9.3.1.jar"
+hash-format = "sha512"
+hash = "afe3e0ced74ebacd70955a3f271d15411c95cb5172d5869f56383247d2158aa6d30370e4205c4af7c3bbb32b8475a668cdb55770f20100f6a724873f8e50c74d"
+
+[update]
+[update.modrinth]
+mod-id = "E5Qy8rmu"
+version = "5bAKF14k"

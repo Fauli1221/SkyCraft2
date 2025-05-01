@@ -1,13 +1,13 @@
 name = "Biolith"
-filename = "biolith-fabric-3.0.1.jar"
+filename = "biolith-fabric-3.0.2-beta.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/iGEl6Crx/versions/QIBeRe18/biolith-fabric-3.0.1.jar"
+url = "https://cdn.modrinth.com/data/iGEl6Crx/versions/QBXAAWGq/biolith-fabric-3.0.2-beta.1.jar"
 hash-format = "sha512"
-hash = "793e3f2e70a15b3774d45aabeeb86978a0aa8ec8610d4a26265ef58bb2ecd3f2880f86e757a414a483232479dff114dae77c48d5655b1be77519d1ea3aa8bd07"
+hash = "503d8e7b76412a0bb0da6a6d4deea49c47d9a686fe7734018f24d4c186fde163d3748cb87da76ee61700887160d43485afed60d780257636e2804528121387e2"
 
 [update]
 [update.modrinth]
 mod-id = "iGEl6Crx"
-version = "QIBeRe18"
+version = "QBXAAWGq"

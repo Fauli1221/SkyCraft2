@@ -1,13 +1,13 @@
 name = "Trailier Tales"
-filename = "TrailierTales-1.1.4-mc1.21.1.jar"
+filename = "TrailierTales-1.1.6-mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9xTQM0ci/versions/bwe8uSIf/TrailierTales-1.1.4-mc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/9xTQM0ci/versions/V4jtOncN/TrailierTales-1.1.6-mc1.21.1.jar"
 hash-format = "sha512"
-hash = "f87e369d7fa7f03f1da0eb302986502e01e61995fcad8311794aaaf21431b121a8e3b00b2150546e6bd6a0cc412e22ca353d7f377a7dfd21c2a7f1c6ef8b025e"
+hash = "fbde00bf9187764571a17e4dcb90184b46989c72da61aec57d64b4bb10b67a84e51f3e7d6b51a387baf7ceaad4ef80d0a383ee99bab8614f987a35bdf72dd429"
 
 [update]
 [update.modrinth]
 mod-id = "9xTQM0ci"
-version = "bwe8uSIf"
+version = "V4jtOncN"
