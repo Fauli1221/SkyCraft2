@@ -1,0 +1,13 @@
+name = "Litavis"
+filename = "litavis-1.2b-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mhPG3DFs/versions/t13qJPCV/litavis-1.2b-1.21.1.jar"
+hash-format = "sha512"
+hash = "cc044665b477437dff0ad26816aac96989268f0918d184407c18f860e0c01a3c618fb2a59fc69cc963df94674fff2bae9a9d2753e751bed4c3a1823af7ccf022"
+
+[update]
+[update.modrinth]
+mod-id = "mhPG3DFs"
+version = "t13qJPCV"

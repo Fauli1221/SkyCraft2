@@ -1,13 +1,13 @@
 name = "Cyclops Core"
-filename = "cyclopscore-1.21.1-fabric-1.25.9.jar"
+filename = "cyclopscore-1.21.1-fabric-1.26.0-756.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Z9DM0LJ4/versions/8ks3CQyk/cyclopscore-1.21.1-fabric-1.25.9.jar"
+url = "https://cdn.modrinth.com/data/Z9DM0LJ4/versions/GOIhgvEm/cyclopscore-1.21.1-fabric-1.26.0-756.jar"
 hash-format = "sha512"
-hash = "56aced58a6a678042f171bb1490f563ad69bcd3109f5287fdfa9502f68e0c0827ddbf040dc0bb23ad296630bf9dc3e03c90349aa725e4fcba7570984602e3d1b"
+hash = "db2f86a328d4f3723ba54181569605559baa32f21ae0ed8a52a17e41103350e0a4b7fed82c2dc347ac31511770cb089d054766c646b63222ed1836eb5a34697f"
 
 [update]
 [update.modrinth]
 mod-id = "Z9DM0LJ4"
-version = "8ks3CQyk"
+version = "GOIhgvEm"
